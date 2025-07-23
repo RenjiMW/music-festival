@@ -10,7 +10,7 @@ https://music-festival-weld.vercel.app/
 
 ## 📸 Screenshots
 
-<img style="center" src="src/assets/images/screenshot.png" alt="Preview" width="600"/>
+<img style="center" src="src/assets/images/music-festival-demo.PNG" alt="Preview" width="600"/>
 
 ---
 
