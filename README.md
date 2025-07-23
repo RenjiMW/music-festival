@@ -66,13 +66,13 @@ git clone https://github.com/RenjiMW/music-festival.git
 cd music-festival
 ```
 
-2. Install Tailwind CLI dependencies
+### 2. Install Tailwind CLI dependencies
 
 ```bash
 npm install
 ```
 
-3. Run Tailwind in watch mode (development)
+### 3. Run Tailwind in watch mode (development)
 
 ```bash
 npm run tw:build
@@ -80,8 +80,9 @@ npm run tw:build
 
 The site uses Tailwind CLI to compile styles from src/input.css into dist/output.css.
 
-4. Open the page
-   Open index.html in your browser (you may need to use a live server if fonts or assets don’t load locally).
+### 4. Open the page
+
+Open index.html in your browser (you may need to use a live server if fonts or assets don’t load locally).
 
 ## 🧰 Useful Scripts
 
@@ -113,5 +114,6 @@ by **Tom Phillips**, available on [Udemy](https://www.udemy.com/).
 - Extract data (e.g., lineup) into JSON and render dynamically with JS
 - Add page transitions and interactive ticket purchase flow
 
-📃 License
+## 📃 License
+
 This project is licensed under the ISC License.
