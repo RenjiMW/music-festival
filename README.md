@@ -27,7 +27,7 @@ https://music-festival-weld.vercel.app/
 ## 📁 Project Structure
 
 ```bash
-TAILWIND-COURSE-STARTER/
+music-festival/
 ├── dist/
 ├── node_modules/
 ├── src/
